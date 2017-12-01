@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 int main(){
+	printf("git study");
 	printf("Hellow World");
 	printf("Tell your WOrld");
 	printf("HI");
