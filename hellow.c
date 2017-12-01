@@ -4,6 +4,7 @@
 
 int main(){
 	printf("git study");
+	printf("moongay");
 	printf("Hellow World");
 	printf("Tell your WOrld");
 	printf("HI");
